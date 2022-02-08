@@ -18,6 +18,7 @@
     "dotenv": "^16.0.0",
     "express": "^4.17.2",
     "express-session": "^1.17.2",
+    "interfaces": "file:../interfaces",
     "mongoose": "^6.2.1",
     "passport": "^0.5.2",
     "passport-local": "^1.0.0"

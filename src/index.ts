@@ -8,6 +8,9 @@ import session from 'express-session'
 import bcrypt from 'bcrypt'
 import dotenv from 'dotenv'
 
+//Interfaces
+import * as interfaces from 'interfaces'
+
 
 const app = express()
 
