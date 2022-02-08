@@ -7,7 +7,8 @@
     "start": "nodemon --exec ts-node src/index.ts",
     "dbstart": "sudo service mongod start",
     "dbend": "sudo service mongod stop",
-    "dbstatus": "sudo service mongod status"
+    "dbstatus": "sudo service mongod status",
+    "build": "tsc -p"
   },
   "author": "Todd",
   "license": "ISC",
